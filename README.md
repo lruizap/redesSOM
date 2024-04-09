@@ -44,4 +44,3 @@ El proyecto está dividido en varias partes:
 
 - `redesSOM.ipynb`: Código Python para el proyecto.
 - `README.md`: Este archivo que contiene la descripción del proyecto.
-- `LICENSE`: Licencia para el uso del código.
